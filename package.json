@@ -2,7 +2,7 @@
   "name": "my-first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MEITOMI.github.io/portfolio-v2",
+  "homepage": "https://meitomi.github.io/portfolio-v2",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
